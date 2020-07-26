@@ -1,0 +1,12 @@
+Civilian:yellow
+ifsame 7
+hop
+hop
+hop
+ifrandom 7
+go 1
+twist
+go 1
+
+
+This creature just walks around the map. They start in a cluster, and try to explore the world.

@@ -1,0 +1,6 @@
+Parry:grey
+reverse
+go 1
+
+
+This creature sits still and reverses directions

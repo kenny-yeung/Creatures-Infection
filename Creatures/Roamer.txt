@@ -1,0 +1,15 @@
+Roamer:forest green
+ifsame 10
+ifnotwall 5
+twist
+go 1
+hop
+ifenemy 8
+go 1
+infect
+go 1
+reverse
+go 1
+
+This creature originally lives on the outer layer of the world. If any other species makes contact with this creature, it'll will be infected and become a
+roamer on it's current location. This creature will only move forward and twist it's direction staying on the outter edge.

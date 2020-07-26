@@ -1,0 +1,28 @@
+Roomber:purple
+ifnotwall 18
+twist
+ifnotwall 5
+go 1
+ifnotwall 20
+twist
+ifnotwall 22
+twist
+hop
+twist
+ifnotwall 24
+reverse
+twist
+hop
+reverse
+twist
+go 7
+hop
+go 1
+hop
+go 5
+hop
+go 7
+hop
+go 11
+
+This creature will cover all the cells within the max generations

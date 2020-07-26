@@ -1,0 +1,6 @@
+Gambler:red
+ifnotwall 4
+reverse
+go 1
+hop
+go 1

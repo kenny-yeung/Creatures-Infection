@@ -1,0 +1,8 @@
+Drunk:cyan
+ifrandom 4
+hop
+go 1
+twist
+go 1
+
+This creature has no motive, it will randomly change directions because it is drunk
